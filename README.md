@@ -1,2 +1,5 @@
-# semantic-search-engine
-Minor Project on Semantic Search Engine
+# image-search-engine
+Minor Project on Image Search Engine
+
+Details:
+(ISE_Details.pdf)
